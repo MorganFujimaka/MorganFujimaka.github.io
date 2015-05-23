@@ -4,24 +4,19 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I am Oleg Kariuk, a Ruby developer (who works on the web) based in Kharkiv. 
+Graduated from the Kharkiv National Economics University. 
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I am working for [OnApp][oa].
+Prefer to serve with Ruby and Ruby on Rails based stacks.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Find me on [Facebook][facebook] / [GitHub][github] / [LinkedIn][linkedin] or just say `Hello` at 
+[olegkariuk@gmail.com](olegkariuk@gmail.com).
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[oa]: http://onapp.com
+[github]: https://github.com/MorganFujimaka
+[facebook]: https://www.facebook.com/oleg.kariuk
+[linkedin]: https://www.linkedin.com/profile/in/olegkariuk
